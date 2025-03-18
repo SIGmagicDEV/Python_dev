@@ -22,3 +22,4 @@ Important syntax.............<br>
 9)to make a git repo, we should use___ <br>
 git init
 <br>
+10)mkdir is used to create a new diewctory.
