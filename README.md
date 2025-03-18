@@ -14,3 +14,6 @@ Important syntax.............<br>
 5)git add
 <br>
 6)git commit -m"message"
+<br>
+7)git push origin main
+<br>
