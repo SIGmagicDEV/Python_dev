@@ -17,3 +17,8 @@ Important syntax.............<br>
 <br>
 7)git push origin main
 <br>
+8)cd ..
+<br>
+9)to make a git repo, we should use___ <br>
+git init
+<br>
